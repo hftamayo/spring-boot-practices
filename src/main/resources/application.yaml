@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+demo:
+  frase: Esta es una frase controlada por properties desde un archivo yaml
